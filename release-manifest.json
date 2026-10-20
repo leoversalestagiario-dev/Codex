@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "name": "guerra-dos-reinos",
+  "version": "1.1.0",
+  "minimum_node_major": 22,
+  "minimum_node_version": ">=22.12.0",
+  "packages": {
+    "node-cross-platform": {
+      "file": "guerra-dos-reinos.zip",
+      "size": 1188358,
+      "sha256": "3649fb4cc04f4e21a08c2f55faecac4197c1eb08cdac3282e9a0be0017c24633"
+    }
+  }
+}
